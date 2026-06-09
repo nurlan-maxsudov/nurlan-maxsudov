@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @nurlan-maxsudov
-- 👀 I’m interested in back-end developing
-- 🌱 I’m currently learning python 
+- 👀 I’m interested in data engineering
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me nurlanmakhsudov@gmail.com
-- ⚡ Fun fact: ...
+
 
 <!---
 nurlan-maxsudov/nurlan-maxsudov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
